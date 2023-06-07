@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest> 
+	<remote fetch="https://github.com/reposyncebconti" name="origin"/> 
+	<default revision="master" sync-j="4" remote="origin"/>
+	<project name="source_repo"/>
+</manifest>
